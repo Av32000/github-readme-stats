@@ -18,6 +18,27 @@ export const themes = {
     text_color: "417E87",
     bg_color: "ffffff00",
   },
+  shadow_red: {
+    title_color: "9A0000",
+    text_color: "444",
+    icon_color: "4F0000",
+    border_color: "4F0000",
+    bg_color: "ffffff00",
+  },
+  shadow_green: {
+    title_color: "007A00",
+    text_color: "444",
+    icon_color: "003D00",
+    border_color: "003D00",
+    bg_color: "ffffff00",
+  },
+  shadow_blue: {
+    title_color: "00779A",
+    text_color: "444",
+    icon_color: "004450",
+    border_color: "004490",
+    bg_color: "ffffff00",
+  },
   dark: {
     title_color: "fff",
     icon_color: "79ff97",
@@ -300,6 +321,13 @@ export const themes = {
     text_color: "C3D1D9",
     bg_color: "0D1117",
   },
+  github_dark_dimmed: {
+    title_color: "539bf5",
+    icon_color: "539bf5",
+    text_color: "ADBAC7",
+    bg_color: "24292F",
+    border_color: "373E47",
+  },
   discord_old_blurple: {
     title_color: "7289DA",
     icon_color: "7289DA",
@@ -367,6 +395,18 @@ export const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   },
+  catppuccin_latte: {
+    title_color: "137980",
+    icon_color: "8839ef",
+    text_color: "4c4f69",
+    bg_color: "eff1f5",
+  },
+  catppuccin_mocha: {
+    title_color: "94e2d5",
+    icon_color: "cba6f7",
+    text_color: "cdd6f4",
+    bg_color: "1e1e2e",
+  },
   forest: {
     title_color: "009f3c",
     icon_color: "ffffff",
@@ -374,15 +414,15 @@ export const themes = {
     bg_color: "000000",
   },
   blood: {
-    title_color: "ff0000",
+    title_color: "ff5252",
     icon_color: "fc7a0f",
-    text_color: "d11d1d",
+    text_color: "ea6262",
     bg_color: "520b0b",
   },
   nswitch: {
     title_color: "00c3e3",
     icon_color: "00c3e3",
-    text_color: "e60012",
+    text_color: "ff3344",
     bg_color: "1f2021",
   },
   vscode: {
