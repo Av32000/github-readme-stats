@@ -41,6 +41,13 @@ Use `?theme=THEME_NAME` parameter like so:
 | `date_night` ![date_night][date_night] | `one_dark_pro` ![one_dark_pro][one_dark_pro] | `rose` ![rose][rose] |
 | `holi` ![holi][holi] | `neon` ![neon][neon] | `blue_navy` ![blue_navy][blue_navy] |
 | `calm_pink` ![calm_pink][calm_pink] | `ambient_gradient` ![ambient_gradient][ambient_gradient] | [Add your theme][add-theme] |
+| `panda` ![panda][panda] | `noctis_minimus` ![noctis_minimus][noctis_minimus] | `cobalt2` ![cobalt2][cobalt2] |
+| `swift` ![swift][swift] | `aura` ![aura][aura] | `apprentice` ![apprentice][apprentice] |
+| `moltack` ![moltack][moltack] | `codeSTACKr` ![codeSTACKr][codeSTACKr] | `rose_pine` ![rose_pine][rose_pine] |
+| `forest` ![forest][forest] | `blood` ![blood][blood] | `nswitch` ![nswitch][nswitch] |
+| `vscode` ![vscode][vscode] | `visual_studio` ![visual_studio][visual_studio] | `sky` ![sky][sky] |
+|  `aura_dark` ![aura_dark][aura_dark] | | |
+| [Add your theme][add-theme] | | |
 
 ## Repo Card
 
@@ -73,6 +80,13 @@ Use `?theme=THEME_NAME` parameter like so:
 | `date_night` ![date_night][date_night_repo] | `one_dark_pro` ![one_dark_pro][one_dark_pro_repo] | `rose` ![rose][rose_repo] |
 | `holi` ![holi][holi_repo] | `neon` ![neon][neon_repo] | `blue_navy` ![blue_navy][blue_navy_repo] |
 | `calm_pink` ![calm_pink][calm_pink_repo] | `ambient_gradient` ![ambient_gradient][ambient_gradient_repo] | [Add your theme][add-theme] |
+| `panda` ![panda][panda_repo] | `noctis_minimus` ![noctis_minimus][noctis_minimus_repo] | `cobalt2` ![cobalt2][cobalt2_repo] |
+| `swift` ![swift][swift_repo] | `aura` ![aura][aura_repo] | `apprentice` ![apprentice][apprentice_repo] |
+| `moltack` ![moltack][moltack_repo] | `codeSTACKr` ![codeSTACKr][codeSTACKr_repo] | `rose_pine` ![rose_pine][rose_pine_repo] |
+| `forest` ![forest][forest_repo] | `blood` ![blood][blood_repo] | `nswitch` ![nswitch][nswitch_repo] |
+| `vscode` ![vscode][vscode_repo] | `visual_studio` ![visual_studio][visual_studio_repo] | `sky` ![sky][sky_repo] |
+| `aura_dark` ![aura_dark][aura_dark_repo] | | |
+| [Add your theme][add-theme] | | |
 
 
 [default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default

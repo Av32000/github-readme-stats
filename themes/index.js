@@ -407,6 +407,41 @@ export const themes = {
     text_color: "cdd6f4",
     bg_color: "1e1e2e",
   },
+  forest: {
+    title_color: "009f3c",
+    icon_color: "ffffff",
+    text_color: "31b573",
+    bg_color: "000000",
+  },
+  blood: {
+    title_color: "ff5252",
+    icon_color: "fc7a0f",
+    text_color: "ea6262",
+    bg_color: "520b0b",
+  },
+  nswitch: {
+    title_color: "00c3e3",
+    icon_color: "00c3e3",
+    text_color: "ff3344",
+    bg_color: "1f2021",
+  },
+  vscode: {
+    title_color: "23a9f2",
+    icon_color: "ff6f5c",
+    text_color: "11b2d9",
+    bg_color: "333333",
+  },
+  visual_studio: {
+    title_color: "cb95f7",
+    icon_color: "ffffff",
+    text_color: "a78cee",
+    bg_color: "333333",
+  },
+  sky: {
+    title_color: "0008e6",
+    icon_color: "1d7887",
+    text_color: "0063e6",
+    bg_color: "cdf9ff",
   date_night: {
     title_color: "DA7885",
     text_color: "E1B2A2",
